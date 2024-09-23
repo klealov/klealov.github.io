@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://klealov.github.io/sitemap.html.gz
+Sitemap: https://klealov.github.io/app/sitemap.html.gz
+Sitemap: https://klealov.github.io/assets/sitemap.html.gz
+Sitemap: https://klealov.github.io/css/sitemap.html.gz
+Sitemap: https://klealov.github.io/data/sitemap.html.gz
+Sitemap: https://klealov.github.io/includes/sitemap.html.gz
+Sitemap: https://klealov.github.io/item/sitemap.html.gz
+Sitemap: https://klealov.github.io/src/sitemap.html.gz
